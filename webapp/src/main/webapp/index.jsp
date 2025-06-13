@@ -3,3 +3,4 @@
 <h2> Glad to see you here at 10:50PM today</h2>
 <h2> Established CI/CD with completion of DevOps project </h2>
 <h2> I have enabled Poll SCM so any changes made to the code will reflect on website</h2>
+<img src="https://testrigor.com/wp-content/uploads/2023/11/What-is-the-CICD-Pipeline.png" alt="description" />
